@@ -164,7 +164,4 @@ ScreenShots of the Application:
 
 ---
 
-## 📄 License
-
-MIT License
-© 2025 Dhanush G. Chandrappa
+© 2025 Dhanush G Chandrappa
