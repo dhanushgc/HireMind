@@ -119,6 +119,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 From `astoria-ai/`:
 
 ```bash
+python database/db_init()
 # Each service runs independently
 uvicorn services/document-parser.main:app --port 8001
 uvicorn services/interview-agent.main:app --port 8004
@@ -142,6 +143,15 @@ Your app will run at:
 > [http://localhost:3000](http://localhost:3000)
 
 ---
+
+ScreenShots of the Application:
+![image](https://github.com/user-attachments/assets/8866900a-578e-498f-ae35-d6731f27de3b)
+![image](https://github.com/user-attachments/assets/4e50e3c0-4864-4700-9112-e608cd03e4c5)
+![image](https://github.com/user-attachments/assets/5e8bd92a-d0ea-4b9a-8cd5-fa8957dad6c5)
+![image](https://github.com/user-attachments/assets/c59d8084-94a3-473d-985f-95b40dca35a0)
+![image](https://github.com/user-attachments/assets/85015714-fad0-418e-9820-c35911401d55)
+![image](https://github.com/user-attachments/assets/a9931398-d15d-4d40-8e75-7be577d7cb05)
+
 
 
 ## 📈 Future Enhancements
