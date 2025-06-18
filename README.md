@@ -143,14 +143,6 @@ Your app will run at:
 
 ---
 
-## 🔪 Example Use Case
-
-* Upload JD for **Data Analyst**
-* Upload resume for **DevOps Engineer**
-* System still generates JD-aligned questions
-* Scoring engine shows "maybe" or "do not advance" if core skills are missing
-
----
 
 ## 📈 Future Enhancements
 
@@ -159,23 +151,6 @@ Your app will run at:
 * OAuth login
 * Cloud-based file upload (e.g. S3)
 
----
-
-## 👥 Test Users
-
-### Recruiter
-
-```
-Email: recruiter@test.com
-Password: recruiter123
-```
-
-### Candidate
-
-```
-Email: candidate@test.com
-Password: candidate123
-```
 
 ---
 
